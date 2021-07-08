@@ -1,19 +1,13 @@
-#add addition
+
 def add(x,y):
-    return x+y
+    pass
 
-#add subtract
 def subtract(x,y):
-    return x-y   #on master 
+    pass
 
-#add multiplication
 def multiply(x,y):
-    return x*y #multiply 
+    pass
 
-#add division
 def divide(x,y):
-   if y==0:
-	return divide_error
-   else:
-	return x/y
+    pass
 
